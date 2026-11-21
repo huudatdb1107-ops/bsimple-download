@@ -19,9 +19,10 @@ Bộ công cụ tự động hoá quy trình làm video cho người sáng tạo
 - Kết nối internet (lần đầu cài)
 - Còn trống nhiều dung lượng ổ đĩa (các thành phần cài đặt khá nặng)
 
-## Hỗ trợ
+## Liên hệ
 
-Xem hướng dẫn và thông tin liên hệ tại https://bsimple-ai.com
+- Zalo: **0983 289 099**
+- Email: huudatdb1107@gmail.com
 
 ## Cập nhật
 
